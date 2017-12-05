@@ -101,7 +101,7 @@ to run an example select a category, then book, then select an example you are i
 [Code a robot to fight other robots](http://beta.fightcodegame.com/ ) 
 
 
-#How to learn more
+# How to learn more
 
 If anything you saw above seemed interesting or useful than congrats! Coding is a great skill for your to learn. Below are a couple of great links for if you want to learn more about programming 
 
