@@ -1,6 +1,8 @@
 # hourofcode-workshop
 STEMHacks own hour of code module for Downingtown STEM Academy
 
+Often times people will think that programming is only something you need to learn if you want to be a programmer. But that could not be farther from the truth
+
 Programming is a skill that can be applied to hundreds of different subjects. Today we are going to explore some examples of these
 and see how coding can relate to you. Below are different links separated by category that show off what coding can do and how 
 it could help you explore your interests. 
@@ -99,3 +101,13 @@ to run an example select a category, then book, then select an example you are i
 [Code a robot to fight other robots](http://beta.fightcodegame.com/ ) 
 
 
+#How to learn more
+
+If anything you saw above seemed interesting or useful than congrats! Coding is a great skill for your to learn. Below are a couple of great links for if you want to learn more about programming 
+
+
+[Free Code Camp](freecodecamp.com) - Learn to program by helping non-profits
+
+[Codecademy](codecademy.com) - A great place to test the waters with programming. Learn the basics of programming here
+
+[Khanacademy](https://www.khanacademy.org/computing) - Learn how to code from Sal Khan himself 
