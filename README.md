@@ -66,6 +66,8 @@ Here is a some sample code you can copy and paste into octave to show you what i
 ## Science
 
 [Use Artifical Intelligence to find research papers](https://iris.ai/)
+[Run various samples of code used in science simulations in online textbooks with SciLab](http://cloud.scilab.in/)  
+[Scilab tutorial](https://www.scilab.org/content/download/849/7901/file/Scilab_beginners.pdf) 
 
 ## Economics
 
