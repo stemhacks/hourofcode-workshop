@@ -42,7 +42,7 @@ Here is a some sample code you can copy and paste into octave to show you what i
 
 [](https://www.madewithcode.com/projects/holidayemoji )
 
-[Animations with Code](http://animejs.com/)
+[Animations with Code](http://animejs.com/) 
 
 [3D Art with Code](https://threejs.org/)
 
@@ -51,8 +51,6 @@ Here is a some sample code you can copy and paste into octave to show you what i
 [Animals animated with Code](http://species-in-pieces.com/#)
 
 ## Music
-
-[](https://devpost.com/software/recordify)
 
 [Chrome Music Lab](https://musiclab.chromeexperiments.com/Experiments )
 
@@ -75,26 +73,23 @@ Here is a some sample code you can copy and paste into octave to show you what i
 
 ## Biology
 
-[Use Computers to play a game and help to make find new ways to make medicine.](https://fold.it/)
-
-[](http://ann.miabellaai.net/ )
-
+[Use Computers to play a game and help to make find new ways to make medicine.](https://fold.it/) 
 
 ## Design
 
-[Design artwork online with Figma](https://www.figma.com/ )
+[Design artwork online with Figma](https://www.figma.com/ ) Use Figma to create simple wireframes and sketches of your planned app so you can show off your concepts without having to program everything beforehand.
 
-[Learn how to Design](Hackdesign.org)
+[Learn how to Design](Hackdesign.org) 
 
 
 ## Cool Stuff
 
-[Google Chrome Experiments](https://experiments.withgoogle.com/ )
+[Google Chrome Experiments](https://experiments.withgoogle.com/ ) Check out awesome projects made by other coders and selected by Google!
 
-[Use code to send real world mail](https://lob.com/)
+[Use code to send real world mail](https://lob.com/) 
 
 [Simulate the cold war](https://coldwar.io/coldwar) This game lets you tinker with settings to see how the Cold War might have played out under other circumstances.
 
-[Code a robot to fight other robots](http://beta.fightcodegame.com/ ) 
+[Code a robot to fight other robots](http://beta.fightcodegame.com/ ) Use JavaScript to create a program to control a robot, then let it fight with other people's robots!
 
 
