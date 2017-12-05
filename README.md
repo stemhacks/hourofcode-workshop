@@ -1,15 +1,31 @@
 # hourofcode-workshop
 STEMHacks own hour of code module for Downingtown STEM Academy
 
+Programming is a skill that can be applied to hundreds of different subjects. Today we are going to explore some examples of these
+and see how coding can relate to you. Below are different links separated by category that show off what coding can do and how 
+it could help you explore your interests. 
+
 ## Mathematics
 
-[Octave](https://octave-online.net/ )
 
-[D3 Graphs](https://d3js.org/)
 
-[Seeing Theory](http://students.brown.edu/seeing-theory/ )
+[Octave](https://octave-online.net/ ) is an incredible tool for mathematics. It lets users do complex calculations and make complicated graphs that you couldn't make anywhere else. 
 
-## Hacking
+Here is a some sample code you can copy and paste into octave to show you what it can do
+
+'[x,y]=meshgrid(-0.5:0.1:0.5);'
+'z=sin(x)+cos(y);'
+'surf(z)'
+
+
+
+[D3 Graphs](https://d3js.org/) is a programming tool that can help you make almost any time of graph you can image. On the website there are literally hundreds of grpahs that you can look at and learn to make.
+
+
+[Seeing Theory](http://students.brown.edu/seeing-theory/ ) - This is a website that shows some incredible visualizations of complicated math concepts. So if a concept in math is making you struggle this could clear it up. 
+
+
+## Cyber Security 
 
 [Hack this Site](https://www.hackthissite.org/)
 
