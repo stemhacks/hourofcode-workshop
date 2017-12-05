@@ -13,10 +13,10 @@ it could help you explore your interests.
 
 Here is a some sample code you can copy and paste into octave to show you what it can do
 
-'[x,y]=meshgrid(-0.5:0.1:0.5);'
-'z=sin(x)+cos(y);'
-'surf(z)'
-
+```[x,y]=meshgrid(-0.5:0.1:0.5);
+z=sin(x)+cos(y);
+surf(z)
+```
 
 [D3 Graphs](https://d3js.org/) is a programming tool that can help you make almost any time of graph you can image. On the website there are literally hundreds of grpahs that you can look at and learn to make.
 
