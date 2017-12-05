@@ -13,7 +13,8 @@ it could help you explore your interests.
 
 Here is a some sample code you can copy and paste into octave to show you what it can do
 
-```[x,y]=meshgrid(-0.5:0.1:0.5);
+```
+[x,y]=meshgrid(-0.5:0.1:0.5);
 z=sin(x)+cos(y);
 surf(z)
 ```
