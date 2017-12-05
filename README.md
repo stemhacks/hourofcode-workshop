@@ -91,10 +91,10 @@ Here is a some sample code you can copy and paste into octave to show you what i
 
 [Google Chrome Experiments](https://experiments.withgoogle.com/ )
 
-[USe code to send real world mail](https://lob.com/)
+[Use code to send real world mail](https://lob.com/)
 
-[Simulate the cold war](https://coldwar.io/coldwar)
+[Simulate the cold war](https://coldwar.io/coldwar) This game lets you tinker with settings to see how the Cold War might have played out under other circumstances.
 
-[Code a robot to fight other robots](http://beta.fightcodegame.com/ )
+[Code a robot to fight other robots](http://beta.fightcodegame.com/ ) 
 
 
