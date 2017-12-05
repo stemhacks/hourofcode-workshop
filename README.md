@@ -1,5 +1,5 @@
 # hourofcode-workshop
-STEMHacks own hour of code module for Downingtown STEM Academy
+STEMHacks' own hour of code module for Downingtown STEM Academy
 
 Often times people will think that programming is only something you need to learn if you want to be a programmer. But that could not be farther from the truth
 
