@@ -18,7 +18,6 @@ Here is a some sample code you can copy and paste into octave to show you what i
 'surf(z)'
 
 
-
 [D3 Graphs](https://d3js.org/) is a programming tool that can help you make almost any time of graph you can image. On the website there are literally hundreds of grpahs that you can look at and learn to make.
 
 
@@ -27,7 +26,7 @@ Here is a some sample code you can copy and paste into octave to show you what i
 
 ## Cyber Security 
 
-[Hack this Site](https://www.hackthissite.org/)
+[Hack this Site](https://www.hackthissite.org/) - This is a nice website where you can learn cyber security by participating in some fun challenges where you, as the name says, hack the website. 
 
 [0xf](https://0xf.at/)
 
@@ -36,17 +35,15 @@ Here is a some sample code you can copy and paste into octave to show you what i
 
 ## Art
 
-[Google Art gallery or projects made with code](https://devart.withgoogle.com/)
+[Google Art gallery or projects made with code](https://devart.withgoogle.com/) - Google once held an event where they asked as many developers as they could to make some art by using technology. Here is the full gallery of projects and each project has a detailed description and explanation of how it was built. 
 
-[Make your own art with code](http://devartcodefactory.com/#/home)
-
-[](https://www.madewithcode.com/projects/holidayemoji )
+[Make your own art with code](http://devartcodefactory.com/#/home) - This is a project made that shows you how to make different 3d art step by step in code. 
 
 [Animations with Code](http://animejs.com/) 
 
-[3D Art with Code](https://threejs.org/)
+[3D Art with Code](https://threejs.org/) - 
 
-[Virtual Reality Art with Code](https://aframe.io/)
+[Virtual Reality Art with Code](https://aframe.io/) - 
 
 [Animals animated with Code](http://species-in-pieces.com/#)
 
@@ -70,6 +67,7 @@ Here is a some sample code you can copy and paste into octave to show you what i
 ## Economics
 
 [Use code and economics data to make money](https://www.quantopian.com/home )
+
 
 ## Biology
 
