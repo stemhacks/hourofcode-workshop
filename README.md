@@ -64,8 +64,10 @@ surf(z)
 ## Science
 
 [Use Artifical Intelligence to find research papers](https://iris.ai/)
-[Run various samples of code used in science simulations in online textbooks with SciLab](http://cloud.scilab.in/)  
-[Scilab tutorial](https://www.scilab.org/content/download/849/7901/file/Scilab_beginners.pdf) 
+
+[Scilab](http://cloud.scilab.in/) - Tool used for performing many scientific calculations in the real world
+
+to run an example select a category, then book, then select an example you are interested in. Finally hit execute and see what it does
 
 ## Economics
 
