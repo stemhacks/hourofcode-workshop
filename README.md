@@ -13,7 +13,7 @@ it could help you explore your interests.
 
 [Octave](https://octave-online.net/ ) is an incredible tool for mathematics. It lets users do complex calculations and make complicated graphs that you couldn't make anywhere else. 
 
-Here is a some sample code you can copy and paste into octave to show you what it can do
+Here is some sample code you can copy and paste into octave to show you what it can do.
 
 ```
 [x,y]=meshgrid(-0.5:0.1:0.5);
@@ -21,7 +21,7 @@ z=sin(x)+cos(y);
 surf(z)
 ```
 
-[D3 Graphs](https://d3js.org/) is a programming tool that can help you make almost any time of graph you can image. On the website there are literally hundreds of grpahs that you can look at and learn to make.
+[D3 Graphs](https://d3js.org/) is a programming tool that can help you make almost any type of graph you can image. On the website there are literally hundreds of grpahs that you can look at and learn to make.
 
 
 [Seeing Theory](http://students.brown.edu/seeing-theory/ ) - This is a website that shows some incredible visualizations of complicated math concepts. So if a concept in math is making you struggle this could clear it up. 
@@ -38,9 +38,9 @@ surf(z)
 
 ## Art
 
-[Google Art gallery or projects made with code](https://devart.withgoogle.com/) - Google once held an event where they asked as many developers as they could to make some art by using technology. Here is the full gallery of projects and each project has a detailed description and explanation of how it was built. 
+[Google Art gallery or projects made with code](https://devart.withgoogle.com/) - Google once held an event where they asked as many developers as they could to make some art by using technology. Here is the full gallery of projects; each project has a detailed description and explanation of how it was built. 
 
-[Make your own art with code](http://devartcodefactory.com/#/home) - This is a project made that shows you how to make different 3d art step by step in code. 
+[Make your own art with code](http://devartcodefactory.com/#/home) - This is a project that shows you how to make different 3d art step by step in code. 
 
 [Animations with Code](http://animejs.com/) - Examples of some of the fluidity of animating using code. 
 
@@ -67,9 +67,9 @@ surf(z)
 
 [Use Artifical Intelligence to find research papers](https://iris.ai/)
 
-[Scilab](http://cloud.scilab.in/) - Tool used for performing many scientific calculations in the real world
+[Scilab](http://cloud.scilab.in/) - Tool used for performing many scientific calculations in the real world.
 
-to run an example select a category, then book, then select an example you are interested in. Finally hit execute and see what it does
+To run an example, select a category, then book, then select an example you are interested in. Finally, hit execute and see what it does.
 
 ## Economics
 
@@ -103,11 +103,11 @@ to run an example select a category, then book, then select an example you are i
 
 # How to learn more
 
-If anything you saw above seemed interesting or useful than congrats! Coding is a great skill for your to learn. Below are a couple of great links for if you want to learn more about programming 
+If anything you see above seems interesting or useful, congrats! Coding is a great skill for you to learn. Below are a couple of great links for if you want to learn more about programming.
 
 
-[Free Code Camp](freecodecamp.com) - Learn to program by helping non-profits
+[Free Code Camp](freecodecamp.com) - Learn to program by helping non-profits.
 
-[Codecademy](codecademy.com) - A great place to test the waters with programming. Learn the basics of programming here
+[Codecademy](codecademy.com) - A great place to test the waters with programming. Learn the basics of programming here.
 
-[Khanacademy](https://www.khanacademy.org/computing) - Learn how to code from Sal Khan himself 
+[Khanacademy](https://www.khanacademy.org/computing) - Learn how to code from Sal Khan himself.
