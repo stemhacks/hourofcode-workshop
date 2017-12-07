@@ -82,7 +82,7 @@ To run an example, select a category, then book, then select an example you are 
 
 [Design artwork online with Figma](https://www.figma.com/ )
 
-[Learn how to Design](Hackdesign.org)
+[Learn how to Design](https://hackdesign.org/)
 
 ## Cyber Security 
 
@@ -108,8 +108,8 @@ To run an example, select a category, then book, then select an example you are 
 If anything you see above seems interesting or useful, congrats! Coding is a great skill for you to learn. Below are a couple of great links for if you want to learn more about programming.
 
 
-[Free Code Camp](freecodecamp.com) - Learn to program by helping non-profits.
+[Free Code Camp](freecodecamp.org) - Learn to program by helping non-profits.
 
-[Codecademy](codecademy.com) - A great place to test the waters with programming. Learn the basics of programming here.
+[Codecademy](https://www.codecademy.com/) - A great place to test the waters with programming. Learn the basics of programming here.
 
 [Khanacademy](https://www.khanacademy.org/computing) - Learn how to code from Sal Khan himself.
