@@ -88,9 +88,9 @@ To run an example, select a category, then book, then select an example you are 
 
 [Hack this Site](https://www.hackthissite.org/) - This is a nice website where you can learn cyber security by participating in some fun challenges where you, as the name says, hack the website. 
 
-[0xf](https://0xf.at/)
+[0xf](https://0xf.at/) - This website contains several little cyber security challenges. 
 
-[Pwnable](http://pwnable.kr/)
+[Pwnable](http://pwnable.kr/) - This website provides cyber security challenges known as wargame challenges. 
 
 ## Cool Stuff
 
