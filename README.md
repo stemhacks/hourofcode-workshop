@@ -27,15 +27,6 @@ surf(z)
 [Seeing Theory](http://students.brown.edu/seeing-theory/ ) - This is a website that shows some incredible visualizations of complicated math concepts. So if a concept in math is making you struggle this could clear it up. 
 
 
-## Cyber Security 
-
-[Hack this Site](https://www.hackthissite.org/) - This is a nice website where you can learn cyber security by participating in some fun challenges where you, as the name says, hack the website. 
-
-[0xf](https://0xf.at/)
-
-[Pwnable](http://pwnable.kr/)
-
-
 ## Art
 
 [Google Art gallery or projects made with code](https://devart.withgoogle.com/) - Google once held an event where they asked as many developers as they could to make some art by using technology. Here is the full gallery of projects; each project has a detailed description and explanation of how it was built. 
@@ -71,6 +62,8 @@ surf(z)
 
 To run an example, select a category, then book, then select an example you are interested in. Finally, hit execute and see what it does.
 
+[Open Knowledge Maps](https://openknowledgemaps.org/index.php) - Use the power of open source programming to find more research papers
+
 ## Economics
 
 [Use code and economics data to make money](https://www.quantopian.com/home )
@@ -79,6 +72,8 @@ To run an example, select a category, then book, then select an example you are 
 ## Biology
 
 [Use Computers to play a game and help to make find new ways to make medicine.](https://fold.it/)
+
+[A computer simulation that shows how language evolves](https://fatiherikli.github.io/language-evolution-simulation/)
 
 [](http://ann.miabellaai.net/ )
 
@@ -89,6 +84,13 @@ To run an example, select a category, then book, then select an example you are 
 
 [Learn how to Design](Hackdesign.org)
 
+## Cyber Security 
+
+[Hack this Site](https://www.hackthissite.org/) - This is a nice website where you can learn cyber security by participating in some fun challenges where you, as the name says, hack the website. 
+
+[0xf](https://0xf.at/)
+
+[Pwnable](http://pwnable.kr/)
 
 ## Cool Stuff
 
