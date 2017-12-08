@@ -1,4 +1,4 @@
-![STEMHacks Banner Image](Black Rasterized Logo)
+![STEMHacks Banner Image](Black_Rasterized_Logo)
 
 # hourofcode-workshop
 STEMHacks' own hour of code module for Downingtown STEM Academy
