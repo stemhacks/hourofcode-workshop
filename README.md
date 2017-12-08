@@ -1,3 +1,5 @@
+![STEMHacks Banner Image](Black Rasterized Logo)
+
 # hourofcode-workshop
 STEMHacks' own hour of code module for Downingtown STEM Academy
 
@@ -6,6 +8,8 @@ Often times people will think that programming is only something you need to lea
 Programming is a skill that can be applied to hundreds of different subjects. Today we are going to explore some examples of these
 and see how coding can relate to you. Below are different links separated by category that show off what coding can do and how 
 it could help you explore your interests. 
+
+Our recommendation is that you open the different links in new tabs by right-clicking or double clicking on the link and then clicking "open in new tab"
 
 ## Mathematics
 
