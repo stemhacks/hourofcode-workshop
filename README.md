@@ -11,7 +11,7 @@ it could help you explore your interests.
 
 
 
-[Octave](https://octave-online.net/ ) is an incredible tool for mathematics. It lets users do complex calculations and make complicated graphs that you couldn't make anywhere else. 
+<a href="https://octave-online.net/" target="_blank">Octave</a> is an incredible tool for mathematics. It lets users do complex calculations and make complicated graphs that you couldn't make anywhere else. 
 
 Here is some sample code you can copy and paste into octave to show you what it can do.
 
@@ -54,7 +54,7 @@ surf(z)
 [Perfectly loop a song using code](https://eternal.abimon.org/jukebox_index.html )
 
 
-## Science
+## Physics
 
 [Use Artifical Intelligence to find research papers](https://iris.ai/)
 
@@ -63,6 +63,8 @@ surf(z)
 To run an example, select a category, then book, then select an example you are interested in. Finally, hit execute and see what it does.
 
 [Open Knowledge Maps](https://openknowledgemaps.org/index.php) - Use the power of open source programming to find more research papers
+
+[Simulate Circuits](https://circuits.io/) - With this program you can create a breadboard onlien and learn about how electronics work
 
 ## Economics
 
