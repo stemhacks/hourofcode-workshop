@@ -1,5 +1,3 @@
-![STEMHacks Banner Image](Black_Rasterized_Logo)
-
 # hourofcode-workshop
 STEMHacks' own hour of code module for Downingtown STEM Academy
 
@@ -12,8 +10,6 @@ it could help you explore your interests.
 Our recommendation is that you open the different links in new tabs by right-clicking or double clicking on the link and then clicking "open in new tab"
 
 ## Mathematics
-
-
 
 <a href="https://octave-online.net/" target="_blank">Octave</a> is an incredible tool for mathematics. It lets users do complex calculations and make complicated graphs that you couldn't make anywhere else. 
 
